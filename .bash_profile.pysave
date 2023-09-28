@@ -1,0 +1,8 @@
+# The original version is saved in .bash_profile.flutter
+PATH="/Library/Frameworks/Python.framework/Versions/3.10/bin:${PATH}"
+export PATH
+PATH="$PATH:/Users/andrew/CS/flutter/bin"
+export PATH
+
+# Setting PATH for Python 3.10
+# The original version is saved in .bash_profile.pysave
